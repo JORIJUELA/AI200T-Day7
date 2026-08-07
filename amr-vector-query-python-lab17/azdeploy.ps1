@@ -5,8 +5,8 @@
 # $rg = "<your-resource-group-name>"  # Resource Group name
 # $location = "<your-azure-region>"   # Azure region for the resources
 
-$rg = "rg-exercises"        # Resource Group name
-$location = "westus2"       # Azure region for the resources
+$rg = "ResourceGroup1"        # Resource Group name
+$location = "Spain Central"       # Azure region for the resources
 
 # ============================================================================
 # DON'T CHANGE ANYTHING BELOW THIS LINE.
